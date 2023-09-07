@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdedb6259fd6b8247a56b6b8e6d24fe6, type: 3}
+  m_Name: InfoPanelData1
+  m_EditorClassIdentifier: 
+  infoPhoto: {fileID: 21300000, guid: ea2814d7418d0804eb2e9bc2f94002fd, type: 3}
+  infoText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula
+    ipsum a arcu. Sapien et ligula ullamcorper malesuada proin libero nunc consequat
+    interdum. Ornare suspendisse sed nisi lacus sed viverra tellus in. Volutpat ac
+    tincidunt vitae semper quis lectus nulla. Faucibus vitae aliquet nec ullamcorper
+    sit amet risus. Gravida arcu ac tortor dignissim. Nisl vel pretium lectus quam
+    id leo in vitae. Eget arcu dictum varius duis at consectetur lorem donec. Aliquam
+    sem et tortor consequat. Quis commodo odio aenean sed adipiscing diam donec.
+
+    
+
+    Vitae
+    elementum curabitur vitae nunc. In fermentum et sollicitudin ac orci. Luctus
+    accumsan tortor posuere ac ut consequat semper viverra. Egestas egestas fringilla
+    phasellus faucibus scelerisque eleifend donec. Sit amet purus gravida quis blandit
+    turpis cursus in hac. Ut lectus arcu bibendum at. Orci sagittis eu volutpat odio
+    facilisis mauris sit amet. Orci a scelerisque purus semper eget duis at tellus.
+    Pharetra massa massa ultricies mi. Habitant morbi tristique senectus et netus.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Sed
+    tempus urna et pharetra pharetra massa massa ultricies mi.'
+  galleryPhotos:
+  - {fileID: 21300000, guid: ea2814d7418d0804eb2e9bc2f94002fd, type: 3}
+  - {fileID: 21300000, guid: b0d471b1508b6ce4788d32d4fed88eef, type: 3}
+  - {fileID: 21300000, guid: 354d10c5f1a4d314ca8fac0afa06bc71, type: 3}
+  - {fileID: 21300000, guid: fbbfb10ab5c375b4abe9f4b9e6b33cf4, type: 3}
+  - {fileID: 21300000, guid: 039abed163acd10428ab582f907d747e, type: 3}
+  - {fileID: 21300000, guid: c426a7d42bf026849aac413479d94fb5, type: 3}
+  - {fileID: 21300000, guid: 0709206b50ae5c646b7d6a4dd15e14ef, type: 3}
+  - {fileID: 21300000, guid: 779a26183afb18842984bd6b343ebfb7, type: 3}
